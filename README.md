@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Hao Xizhe, a senior undergraduate student majoring in automation.
-- 👀 I’m interested in embedded systems and IoT systems, particularly plant caring systems.
-- 🌱 I’m currently learning Microcomputer and Microsystems, ROS, Instudrial network, etc.
-- 💞️ I’m looking to collaborate on embedded systems.
+- 👋 Hi, I’m Zach(Xizhe) Hao, a first-year MS student in Electrical and Computer Engineering at the University of Washington, with a bachelor's degree in Automation from SUSTech.
+- 👀 I’m interested in embedded systems and IoT systems, particularly  in improving efficiency and functionality in embedded devices for real-world 
+applications
+- 🌱 I’m currently learning Microcomputer and Microsystems, FPGA, etc.
+- 💞️ I’m looking to collaborate on innovative embedded systems projects.
 - 📫 You can reach me by email at Caesar66510@gmail.com
 
 <!---
