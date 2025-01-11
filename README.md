@@ -2,8 +2,9 @@
 - 👀 I’m interested in embedded systems and IoT systems, particularly  in improving efficiency and functionality in embedded devices for real-world 
 applications
 - 🌱 I’m currently learning Microcomputer and Microsystems, FPGA, etc.
-- 💞️ I’m looking to collaborate on innovative embedded systems projects.
-- 📫 You can reach me by email at Caesar66510@gmail.com
+- 📫 You can know more about me at www.xizhehao.com
+- 💞️ I’m looking to collaborate on innovative embedded systems projects. Feel free to reach me by email at Caesar66510@gmail.com!
+
 
 <!---
 Xizhe-Hao/Xizhe-Hao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
