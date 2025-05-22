@@ -3,7 +3,7 @@
 applications
 - 🌱 I’m currently learning Microcomputer and Microsystems, FPGA, etc.
 - 📫 You can know more about me at www.xizhehao.com
-- 💞️ I’m looking to collaborate on innovative embedded systems projects. Feel free to reach me by email at Caesar66510@gmail.com!
+- 💞️ I’m looking to collaborate on innovative embedded systems projects. Feel free to reach me by email at xhao6 **AT** uw.edu!
 
 
 <!---
