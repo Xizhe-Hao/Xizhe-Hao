@@ -14,50 +14,59 @@
 
 ## 🎓 About Me
 
-I'm a first-year **MS student** in [Electrical and Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/), with a bachelor's degree in [Automation](https://sdim.sustech.edu.cn/) from [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/).
+I'm a first-year **MS student** in [Electrical and Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/), with a BS in [Automation](https://sdim.sustech.edu.cn/) from [SUSTech](https://www.sustech.edu.cn/en/).
 
 ### 🔬 Research Interests
-- **Embedded Systems** and **IoT Systems**
-- Improving efficiency and functionality in embedded devices
-- Real-world applications of embedded technology
-- **Microcomputer and Microsystems**
-- **FPGA Development**
+- **Embedded Systems** & **AIoT (AI + IoT)**
+- **Ubiquitous Computing**
+- **Hardware-Software Co-design** for optimal performance
+- **Health Sensing** & **Energy Efficiency** applications
+- **FPGA Development** & **Microcomputer Systems**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### 🔧 Embedded & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-000000?style=for-the-badge&logo=xilinx&logoColor=white)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-000000?style=for-the-badge&logo=zephyr&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=xilinx&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xizhe-Hao&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xizhe-Hao&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xizhe-Hao&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xizhe-Hao&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xizhe-Hao&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 ## 🎯 Current Focus
@@ -77,12 +86,6 @@ I'm looking to collaborate on **innovative embedded systems projects**. If you'r
 ### 📫 Get in Touch
 - 🌐 **Website**: [www.xizhehao.com](https://www.xizhehao.com)
 - 📧 **Email**: xhao6 **AT** uw.edu
-- 🏫 **University**: University of Washington
-- 📍 **Location**: Seattle, WA
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Yes!-brightgreen" alt="Open to Collaboration" />
-</div>
 
 ---
 
@@ -91,12 +94,3 @@ I'm looking to collaborate on **innovative embedded systems projects**. If you'r
 </div>
 
 ---
-
-<div align="center">
-  <sub>⭐ Star this repository if you found it helpful!</sub>
-</div>
-
-<!---
-Xizhe-Hao/Xizhe-Hao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
