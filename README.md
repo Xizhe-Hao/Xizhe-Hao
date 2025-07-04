@@ -13,7 +13,7 @@
 
 ## 🎓 About Me
 
-I'm an **MS student** in [Electrical and Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/). Previously, I earned a **BS** in [Automation](https://sdim.sustech.edu.cn/) from [SUSTech](https://www.sustech.edu.cn/en/).
+I'm an **MS student** in [Electrical and Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/). Previously, I earned a **BEng** in [Automation](https://sdim.sustech.edu.cn/) from [SUSTech](https://www.sustech.edu.cn/en/).
 
 ### 🔬 Research Interests
 - **Embedded Systems** & **AIoT (AI + IoT)**
