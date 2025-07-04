@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Xizhe-Hao&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Active%20Student-brightgreen" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Seattle%2C%20WA-blue" alt="Location" />
 </div>
 
