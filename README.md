@@ -14,14 +14,22 @@
 
 ## 🎓 About Me
 
-I'm a first-year **MS student** in [Electrical and Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/), with a BS in [Automation](https://sdim.sustech.edu.cn/) from [SUSTech](https://www.sustech.edu.cn/en/).
+I'm an **MS student** in [Electrical and Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/). Previously, I earned a **BS** in [Automation](https://sdim.sustech.edu.cn/) from [SUSTech](https://www.sustech.edu.cn/en/).
 
 ### 🔬 Research Interests
 - **Embedded Systems** & **AIoT (AI + IoT)**
 - **Ubiquitous Computing**
-- **Hardware-Software Co-design** for optimal performance
-- **Health Sensing** & **Energy Efficiency** applications
-- **FPGA Development** & **Microcomputer Systems**
+- **Hardware-Software Co-design**
+- **Health Sensing** & **Energy Efficiency**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xizhe-Hao&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xizhe-Hao&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -61,36 +69,16 @@ I'm a first-year **MS student** in [Electrical and Computer Engineering](https:/
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xizhe-Hao&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xizhe-Hao&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Learning-Microcomputer%20%26%20Microsystems-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/Learning-FPGA%20Development-green" alt="Learning" />
-  <img src="https://img.shields.io/badge/Learning-IoT%20Systems-orange" alt="Learning" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Xizhe-Hao&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 🤝 Let's Collaborate!
 
-I'm looking to collaborate on **innovative embedded systems projects**. If you're working on something exciting in the embedded/IoT space, I'd love to hear about it!
+I'm eager to collaborate on **innovative embedded systems projects**. If you're working on something exciting in the embedded or IoT space, I'd love to connect!
 
 ### 📫 Get in Touch
 - 🌐 **Website**: [www.xizhehao.com](https://www.xizhehao.com)
 - 📧 **Email**: xhao6 **AT** uw.edu
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xizhe-Hao&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
