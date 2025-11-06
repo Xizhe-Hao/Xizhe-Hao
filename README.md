@@ -23,24 +23,6 @@ I'm an **MS student** in [Electrical and Computer Engineering](https://www.ece.u
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xizhe-Hao&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xizhe-Hao&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm eager to collaborate on **innovative embedded systems projects**. If you're working on something exciting in the embedded or IoT space, I'd love to connect!
-
 ### 📫 Get in Touch
 - 🌐 **Website**: [www.xizhehao.com](https://www.xizhehao.com)
 - 📧 **Email**: xhao6 **AT** uw.edu
