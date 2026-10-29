@@ -1,27 +1,7 @@
-# 👋 Hi there, I'm Zach (Xizhe) Hao
+# Hi, I'm Zach (Xizhe) Hao 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Embedded+Systems+Engineer;IoT+Enthusiast;MS+Student+at+UW" alt="Typing SVG" />
-</div>
+Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Tingyu Cheng](https://tingyucheng.com/).
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xizhe-Hao&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Seattle%2C%20WA-blue" alt="Location" />
-</div>
+I work on **tactile sensing and physical interaction for robotic systems**, with a background in embedded systems, wearable sensing, and HCI. Previously M.S. at the University of Washington; B.Eng. at SUSTech.
 
----
-
-## 🎓 About Me
-
-I'm an **PhD student** in [Computer Science and Engineering](https://cse.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). 
-
-### 🔬 Research Interests
-- **Embedded Systems** & **AIoT (AI + IoT)**
-- **Ubiquitous Computing**
-- **Hardware-Software Co-design**
-- **Health Sensing** & **Energy Efficiency**
-
----
-
-### 📫 Get in Touch
--  **Website**: [www.xizhehao.com](https://www.xizhehao.com)
+🌐 [xizhehao.com](https://www.xizhehao.com) · ✉️ xhao [AT] nd [dot] edu
