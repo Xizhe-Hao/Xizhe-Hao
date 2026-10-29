@@ -4,4 +4,4 @@ Ph.D. student in Computer Science and Engineering at the [University of Notre Da
 
 I work on **tactile sensing and physical interaction for robotic systems**, with a background in embedded systems, wearable sensing, and HCI. Previously M.S. at the University of Washington; B.Eng. at SUSTech.
 
-🌐 [xizhehao.com](https://www.xizhehao.com) · ✉️ xhao [AT] nd [dot] edu
+🌐 [xizhehao.com](https://www.xizhehao.com) · ✉️ xhao [at] nd [dot] edu
