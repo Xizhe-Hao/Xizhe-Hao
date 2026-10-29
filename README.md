@@ -13,7 +13,7 @@
 
 ## 🎓 About Me
 
-I'm an **MS student** in [Electrical and Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/). Previously, I earned a **BEng** in [Automation](https://sdim.sustech.edu.cn/) from [SUSTech](https://www.sustech.edu.cn/en/).
+I'm an **PhD student** in [Computer Science and Engineering](https://cse.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). 
 
 ### 🔬 Research Interests
 - **Embedded Systems** & **AIoT (AI + IoT)**
@@ -24,5 +24,4 @@ I'm an **MS student** in [Electrical and Computer Engineering](https://www.ece.u
 ---
 
 ### 📫 Get in Touch
-- 🌐 **Website**: [www.xizhehao.com](https://www.xizhehao.com)
-- 📧 **Email**: xhao6 **AT** uw.edu
+-  **Website**: [www.xizhehao.com](https://www.xizhehao.com)
